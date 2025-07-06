@@ -1,0 +1,1 @@
+insert course (coursename) values ('Bacherlor Of Arts')
